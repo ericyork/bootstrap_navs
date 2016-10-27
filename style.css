@@ -1,5 +1,16 @@
 /*-- no styles here --*/
+.navbar-default {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.navbar-static-top {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.navbar-fixed-top {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 .jumbotron {
-  margin-top: 75px;
   margin-bottom: 1500px;
 }
