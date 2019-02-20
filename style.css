@@ -1,4 +1,4 @@
-/*-- no styles here --*/
+/*-- few styles here --*/
 .navbar-default {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -13,4 +13,11 @@
 }
 .jumbotron {
   margin-bottom: 1500px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: blue;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    color: red;
 }
